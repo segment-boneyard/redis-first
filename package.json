@@ -1,0 +1,22 @@
+{
+  "name": "redis-first",
+  "version": "0.0.1",
+  "description": "The first redis write wins, the rest get that value",
+  "keywords": [
+    "redis",
+    "first"
+  ],
+  "author": "Segment.io <friends@segment.io>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/redis-first.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "~1.2.2",
+    "uid": "0.0.2",
+    "redis": "~0.8.4"
+  },
+  "main": "lib/index"
+}
